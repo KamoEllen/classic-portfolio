@@ -12,7 +12,7 @@ import inventoryImg from "@/assets/inventoryimg.png";
 import springImg from "@/assets/springImg.png";
 import projImg from "@/assets/projImg.png";
 import beyondbordersImg from "@/assets/beyondbordersImg.png";
-import certImg from "@/assets/certificates.png";
+import certImg from "@/assets/Certificates.png";
 
 const ExperienceAndProjects = () => {
   return (
