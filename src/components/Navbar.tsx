@@ -10,6 +10,7 @@ import cloud from "@/assets/cloud.webp";
 import algorithms from "@/assets/algorithms.webp";
 import waste from "@/assets/waste.png";
 import pmImg from "@/assets/pmImg.jpg";
+import star from "./favicon.ico";
 
 
 
@@ -32,6 +33,7 @@ const navItems = [
   { id: "inventory-lens", icon: ai, label: "AI Model" },
   { id: "environmental-api", icon: waste, label: "Env API" },
   { id: "project-management-api", icon: pmImg, label: "PM API" },
+  { id: "certificates", icon: star, label: "Certificates" },
 ];
 
 
