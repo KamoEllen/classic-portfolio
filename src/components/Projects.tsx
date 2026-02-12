@@ -13,6 +13,7 @@ import springImg from "@/assets/springImg.png";
 import projImg from "@/assets/projImg.png";
 import beyondbordersImg from "@/assets/beyondbordersImg.png";
 import certImg from "@/assets/Certificates.png";
+import beyondcodetImg from "@/assets/beyondcode.png";
 
 const ExperienceAndProjects = () => {
   return (
@@ -251,7 +252,16 @@ const ExperienceAndProjects = () => {
       {/* Beyond Code Section */}
       <div className="mb-16">
         <h2 className="text-2xl font-bold mb-8">Beyond Code</h2>
-        <p className="text-lg text-gray-700">Math · Dancing · Reading · Hiking · Puzzles · Sports</p>
+        <ProjectSection
+            
+            collaborators={[]}
+            paragraphs={[
+              "Math · Dancing · Reading · Hiking · Puzzles · Sports",
+            ]}
+            images={[beyondcodetImg]}
+            links={[]}
+          />
+        
       </div>
     </div>
   );
