@@ -23,7 +23,7 @@ const ExperienceAndProjects = () => {
         <div className="space-y-12">
           <ProjectSection
             id="eragetway-intern"
-            title="Full Stack Programming Intern"
+            title="Software Engineer (Full-Stack)"
             subtitle="Eragetway · Sandton"
             year="Aug 2025 – Present"
             collaborators={[]}
@@ -38,7 +38,7 @@ const ExperienceAndProjects = () => {
 
           <ProjectSection
             id="fallible-developer"
-            title="Software Developer & UI/UX Designer"
+            title="Software Engineer (Frontend)"
             subtitle="Fallible · Remote"
             year="May 2023 – July 2025"
             collaborators={[]}
@@ -53,7 +53,7 @@ const ExperienceAndProjects = () => {
 
           <ProjectSection
             id="freelance-engineer"
-            title="Freelance Software Engineer"
+            title="Independent Software Developer"
             subtitle="Gauteng"
             year="Jan 2022 – Present"
             collaborators={[]}
