@@ -111,7 +111,7 @@ const About = () => {
             )}
           </button>
           <a
-            href="/src/assets/Kamogelo_Kganakga_Sofftware_Engineer.pdf"
+            href="/src/assets/Kamogelo_Kganakga_Software_Engineer.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 rounded-full border border-border px-5 py-2.5 text-sm font-medium text-foreground transition-all hover:bg-secondary"
